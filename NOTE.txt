@@ -1,0 +1,25 @@
+extract file.zip
+Usahakan struktur folders seperti ini :
+htdoc/
+  WEB-BIMABOLA/
+	Admin/
+	BimaBola/
+	index.php	
+	NOTE.txt
+	web-bimabola.sql
+
+selanjutnya PASTIKAN XAMPP SUDAH BERJALAN - APACHE DAN MYSQL:
+1. buka http://localhost/phpmyadmin/
+2. Buat database baru 
+->buat nama database 'web-bimabola' *nokutip
+3. klik bagian IMPORT
+->choose File
+->pilih web-bimabola.sql
+
+4. jalankan WEB
+http://localhost/WEB-BIMABOLA/
+
+LOGIN: 
+Username : bima
+password : bima
+
