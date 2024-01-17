@@ -17,7 +17,7 @@ Berikut adalah langkah-langkah untuk menginstal dan menjalankan proyek ini:
 1. Clone repositori ini ke dalam direktori web server Anda:
 
     ```bash
-    git clone https://github.com/namauser/WEB-BIMABOLA.git
+    git clone https://github.com/Creath444/WEB-BIMABOLA.git
     ```
 
 2. Buat database baru di MySQL/MariaDB.
